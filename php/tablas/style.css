@@ -1,0 +1,202 @@
+.container{
+    text-align: start;
+    align-items: center;
+    padding: 20px;
+    display: block;
+    background-color: #686C75;
+    
+    
+    justify-content: center;
+}
+#nombre{
+    background-color: #EFBCD5;
+    border-radius: 10px;
+    align-items: center;
+
+}
+#apm{
+    background-color: #EFBCD5;
+    border-radius: 10px;
+    align-items: center;
+
+
+}
+#app{
+    background-color: #EFBCD5;
+    border-radius: 10px;
+    align-items: center;
+
+}
+#bt{
+    background-color: #EFBCD5;
+    
+    height: 50px;
+    width: 100px;
+    background-color: darkgray;
+    align-items: center;
+
+}
+#num{
+    background-color: #EFBCD5;
+    border-radius: 10px;
+ align-items: center;
+}
+#domicilio{
+    background-color: #EFBCD5;
+    border-radius: 10px;
+ align-items: center;
+}
+#sueldo{
+    background-color: #EFBCD5;
+    border-radius: 10px;
+align-items: center;
+}
+#clave{
+    background-color: #EFBCD5;
+    border-radius: 10px;
+    align-items: center;
+}
+body{
+    background-color:#3C4253;
+}
+
+
+#bt {
+    display: inline-block;
+    border-radius: 4px;
+    background-color: #3d405b;
+    border: none;
+    color: #FFFFFF;
+    text-align: center;
+    font-size: 17px;
+    padding: 16px;
+    width: 130px;
+    transition: all 0.5s;
+    cursor: pointer;
+    margin: 5px;
+   }
+   
+   #bt span {
+    cursor: pointer;
+    display: inline-block;
+    position: relative;
+    transition: 0.5s;
+   }
+   
+   #bt span:after {
+    content: '»';
+    position: absolute;
+    opacity: 0;
+    top: 0;
+    right: -15px;
+    transition: 0.5s;
+   }
+   
+   #bt:hover span {
+    padding-right: 15px;
+   }
+   
+   #bt:hover span:after {
+    opacity: 1;
+    right: 0;
+   }
+   #clave{
+    background-color: #EFBCD5;
+    border-radius: 10px;
+    align-items: center;
+   }
+  #cantidad{
+    background-color: #EFBCD5;
+    border-radius: 10px;
+    align-items: center;
+  }
+  #clave_empleado{
+    background-color: #EFBCD5;
+    border-radius: 10px;
+    align-items: center;
+  }
+  #codigo{
+    background-color: #EFBCD5;
+    border-radius: 10px;
+    align-items: center;
+  }
+  #contenido{
+    background-color: #EFBCD5;
+    border-radius: 10px;
+    align-items: center;
+  }
+  #descripcion{
+    background-color: #EFBCD5;
+    border-radius: 10px;
+    align-items: center;
+  }
+  #domicilio{
+    background-color: #EFBCD5;
+    border-radius: 10px;
+    align-items: center;
+  }
+  #existencia{
+    background-color: #EFBCD5;
+    border-radius: 10px;
+    align-items: center;
+  }
+  #fecha{
+    background-color: #EFBCD5;
+    border-radius: 10px;
+    align-items: center;
+  }
+  #fecha_expiracion{
+    background-color: #EFBCD5;
+    border-radius: 10px;
+    align-items: center;
+  }
+  #folio{
+    background-color: #EFBCD5;
+    border-radius: 10px;
+    align-items: center;
+  }
+  #hora{
+    background-color: #EFBCD5;
+    border-radius: 10px;
+    align-items: center;
+  }
+  #marca{
+    background-color: #EFBCD5;
+    border-radius: 10px;
+    align-items: center;
+  }
+  #menu{
+    background-color: #EFBCD5;
+    border-radius: 10px;
+    align-items: center;
+  }
+  #nombre{
+    background-color: #EFBCD5;
+    border-radius: 10px;
+    align-items: center;
+  }
+  #num{
+    background-color: #EFBCD5;
+    border-radius: 10px;
+    align-items: center;
+  }
+  #precio{
+    background-color: #EFBCD5;
+    border-radius: 10px;
+    align-items: center;
+  }
+  #presentacion{
+    background-color: #EFBCD5;
+    border-radius: 10px;
+    align-items: center;
+  }
+  #sueldo{
+    background-color: #EFBCD5;
+    border-radius: 10px;
+    align-items: center;
+  }
+  #tipo{
+    background-color: #EFBCD5;
+    border-radius: 10px;
+    align-items: center;ko
+  }
